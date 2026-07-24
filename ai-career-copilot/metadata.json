@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Copilot",
+  "description": "Production-grade AI Career Copilot for ATS resume analysis, career guidance, interactive AI interviews, recruiter reviews, and learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
