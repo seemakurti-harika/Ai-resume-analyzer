@@ -172,19 +172,6 @@ or the port displayed in your terminal.
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Resume Upload
-- ATS Analysis
-- Career Roadmap
-- Interview Preparation
-- Cover Letter Generator
-
----
-
 # 🤝 Contributing
 
 Contributions are welcome.
